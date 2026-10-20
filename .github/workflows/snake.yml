@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -16,10 +17,10 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: maria-kau
           outputs: |
-            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ede9fe,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
-            dist/github-snake-dark.svg?color_snake=#c084fc&color_dots=#1e1633,#4c1d95,#6d28d9,#8b5cf6,#d8b4fe
+            dist/github-snake.svg?color_snake=%237c3aed&color_dots=%23ede9fe,%23ddd6fe,%23c4b5fd,%23a78bfa,%237c3aed
+            dist/github-snake-dark.svg?color_snake=%23c084fc&color_dots=%231e1633,%234c1d95,%236d28d9,%238b5cf6,%23d8b4fe
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
