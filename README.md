@@ -11,7 +11,7 @@ Me chamo Maria Kauéllene Silva, tenho 21 anos e sou natural de Fortaleza, Cear�
 Tecnólogo em Análise e Desenvolvimento de Sistemas: Gran Faculdade · 2026 a 2028 (previsão)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-kauellene/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kauellene-silva-694a48428/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://maria-kau.github.io/portifolio_dev/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
   <img src="https://img.shields.io/badge/Em%20busca%20de-Est%C3%A1gio%20ou%20J%C3%BAnior-22C55E?style=for-the-badge" alt="Em busca de estágio ou júnior">
 </p>
@@ -82,7 +82,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas: Gran Faculdade · 2026 a 2
 ## 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/maria-kauellene/"><img src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar no LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kauellene-silva-694a48428/"><img src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar no LinkedIn"></a>
   <a href="https://maria-kau.github.io/portifolio_dev/"><img src="https://img.shields.io/badge/Ver-Portf%C3%B3lio-7C3AED?style=for-the-badge" alt="Ver portfólio"></a>
 </p>
 
