@@ -58,41 +58,27 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas: Gran Faculdade · 2026 a 2
 ---
 
 
-
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe&icon_color=a78bfa"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&border_color=c4b5fd&bg_color=ffffff&title_color=6d28d9&text_color=374151&icon_color=7c3aed"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub"
-      alt="Estatísticas do GitHub"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=c4b5fd&bg_color=ffffff&title_color=6d28d9&text_color=374151"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br"
-      alt="Linguagens mais utilizadas"
-    />
-  </picture>
+  <img 
+    width="450"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe&icon_color=a78bfa"
+    alt="Estatísticas e classificação do GitHub"
+  />
+  <img 
+    width="450"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maria-kau/Maria-kau/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Maria-kau/Maria-kau/output/github-snake.svg" />
+</picture>
 
 ## 📫 Contato
 
