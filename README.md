@@ -1,9 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=210&section=header&text=Maria%20Kau%C3%A9llene%20Alencar%20da%20Silva&fontSize=40&fontColor=ffffff&fontAlignY=28&desc=Back-end%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20An%C3%A1lise%20de%20Dados&descSize=17&descAlignY=50" alt="Maria Kauéllene Alencar da Silva">
 
-<p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
-  Back-end Python Developer · Django · SQL • Fortaleza, CE
-</p>
+---
+# 👩🏼‍💻 Maria Kauéllene
+
+**`Desenvolvedora Back-end💜`**
+
+Me chamo Maria Kauéllene Silva, tenho 21 anos e sou natural de Fortaleza, Ceará. Atualmente, curso Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-end. Possuo conhecimentos em Python, Django, APIs REST, SQL e bancos de dados relacionais. Busco desenvolver soluções eficientes por meio de projetos práticos, expandindo continuamente meus conhecimentos em desenvolvimento de software.
+
+> 🎯 **Em busca de:** <br>estágio ou vaga júnior em desenvolvimento back-end, full stack ou análise de dados (presencial em Fortaleza ou remoto).
+> <br>
+> 🎓 **Formação:**<br>
+Tecnólogo em Análise e Desenvolvimento de Sistemas: Gran Faculdade · 2026 a 2028 (previsão)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-kauellene/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,13 +17,6 @@
   <img src="https://img.shields.io/badge/Em%20busca%20de-Est%C3%A1gio%20ou%20J%C3%BAnior-22C55E?style=for-the-badge" alt="Em busca de estágio ou júnior">
 </p>
 
----
-
-## 💜 Sobre mim
-
-Estudante de ADS com foco em **desenvolvimento back-end** e **análise de dados**. Construo aplicações web com regras de negócio, banco de dados relacional e testes, e gosto de transformar dados em informação útil.
-
-> 🎯 **Em busca de:** estágio ou vaga júnior em desenvolvimento back-end, full stack ou análise de dados (presencial em Fortaleza ou remoto).
 
 ---
 
@@ -58,22 +57,42 @@ Estudante de ADS com foco em **desenvolvimento back-end** e **análise de dados*
 
 ---
 
-## 🚀 Projetos
-
-| Projeto | Descrição | Tecnologias | Links |
-|---|---|---|---|
-| **🏰 RealMify** | Plataforma de estudos gamificada: o progresso vira XP e um reino virtual que evolui. Inclui cadastro e login, perfis, tarefas e biblioteca de conteúdos, com regras de negócio em camada de serviços e testes automatizados. | Python, Django, JavaScript, HTML, CSS | [RealMify](https://github.com/maria-kau/study_realms) |
-| **💄 Makeup Bell** | Loja virtual responsiva com catálogo, busca, filtros e carrinho interativo com cálculo automático do total. | HTML, CSS, JavaScript | [Makeup-bell](https://github.com/Maria-kau/Makeup-bell) |
 
 
----
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe&icon_color=a78bfa"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&border_color=c4b5fd&bg_color=ffffff&title_color=6d28d9&text_color=374151&icon_color=7c3aed"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub"
+      alt="Estatísticas do GitHub"
+    />
+  </picture>
 
-## 🎓 Formação
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=c4b5fd&bg_color=ffffff&title_color=6d28d9&text_color=374151"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br"
+      alt="Linguagens mais utilizadas"
+    />
+  </picture>
+</p>
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**
-Gran Faculdade · 2026 a 2028 (previsão)
-
----
 
 ## 📫 Contato
 
@@ -82,4 +101,3 @@ Gran Faculdade · 2026 a 2028 (previsão)
   <a href="https://maria-kau.github.io/portifolio_dev/"><img src="https://img.shields.io/badge/Ver-Portf%C3%B3lio-7C3AED?style=for-the-badge" alt="Ver portfólio"></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:7C3AED&height=100&section=footer" alt="Rodapé">
