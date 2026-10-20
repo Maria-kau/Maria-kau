@@ -60,13 +60,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas: Gran Faculdade · 2026 a 2
 
 <p align="center">
   <img 
-    width="450"
+    width="400"
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=maria-kau&show_icons=true&rank_icon=default&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe&icon_color=a78bfa"
     alt="Estatísticas e classificação do GitHub"
   />
   <img 
-    width="450"
+    width="400"
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-kau&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=7c3aed&bg_color=1e1633&title_color=c4b5fd&text_color=ede9fe"
     alt="Linguagens mais utilizadas"
